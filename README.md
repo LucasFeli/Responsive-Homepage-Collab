@@ -2,7 +2,9 @@
 
 <h1 align="center">Responsive Homepage - Collab.</h1>
 
-code along tutorial
+- code along tutorial, web page responsive with html and css
+
+
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
