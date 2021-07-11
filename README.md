@@ -2,7 +2,7 @@
 
 <h1 align="center">Responsive Homepage - Collab.</h1>
 
-- code along tutorial, web page responsive with html and css
+
 
 
 
@@ -24,7 +24,7 @@
   </h3>
 </div>
 
-
+- code along tutorial, web page responsive with html and css
 
 
 ## Contact
